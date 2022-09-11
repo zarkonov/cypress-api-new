@@ -1,0 +1,23 @@
+{
+  "name": "cypress-api-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarkonov/cypress-api-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zarkonov/cypress-api-new/issues"
+  },
+  "homepage": "https://github.com/zarkonov/cypress-api-new#readme",
+  "dependencies": {
+    "cypress": "^9.5.0",
+    "prettier": "^2.7.1"
+  }
+}
